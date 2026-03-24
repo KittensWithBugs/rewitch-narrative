@@ -12,7 +12,7 @@
 
 ## Внешность
 
-TODO
+<img src="./Images/CommandingWitch.jpg" alt="Властная ведьма" width=320 />
 
 ## Силы
 
